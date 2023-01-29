@@ -28,5 +28,6 @@ int main(int argc, char *arg[v])
     {
       factorise(buffer);
     }
-  return(0);
+      return (0);
 }
+    
