@@ -6,7 +6,6 @@
 #include <unistd.h>
 #define _GNU_SOURCE
 
-
 /* size_t getline(char **lineptr, size_t *n, *stream); */
 int factorise(char *buffer);
 

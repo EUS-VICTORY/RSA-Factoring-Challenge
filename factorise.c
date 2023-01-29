@@ -3,7 +3,7 @@
 /**
  * factorise - function that factorises a number
  * @buffer:pointer to the address of the number
- *Return: int
+ *int
  */
 
 int factorise(char *buffer)
